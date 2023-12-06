@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-# Check Examples
-
-# python 3.7.1
 
 thousands = ["MMM", "MM", "M"]
 hundreds = ["CM", "DCCC", "DCC", "DC", "D",
